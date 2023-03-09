@@ -37,5 +37,5 @@ JQuery library for managing list of forms which performs CRUD operations.
 ```
 ```js
 var myTable = new FormList('#myTable');
-poDeliveryTable.init('#addFormItem');
+myTable.init('#addFormItem');
 ```
