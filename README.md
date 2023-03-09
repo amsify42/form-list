@@ -1,6 +1,11 @@
 # form-list
 JQuery library for managing list of forms which performs CRUD operations.
 
+### Requires
+```
+https://github.com/amsify42/jquery.amsify.helper
+```
+
 ## Example
 ```html
 <table id="myTable">
